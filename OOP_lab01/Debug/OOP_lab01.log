@@ -1,7 +1,7 @@
-﻿Сборка начата 07.09.2016 10:52:22.
+﻿Сборка начата 13.09.2016 17:43:53.
      1>Проект "D:\MVS 2015 Projects 2 курс\OOP_lab01\OOP_lab01\OOP_lab01.vcxproj" в узле 2 (целевые объекты Build).
      1>InitializeBuildStatus:
-         Создание "Debug\OOP_lab01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\OOP_lab01.tlog\unsuccessfulbuild".
        ClCompile:
          Для всех выходных данных обновления не требуется.
          D:\Проги для универа\Microsoft Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP_lab01.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOP_lab01.cpp
@@ -17,4 +17,4 @@
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:01.16
+Затраченное время: 00:00:02.44
