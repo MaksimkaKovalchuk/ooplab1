@@ -10,7 +10,8 @@ class CppStudio // им€ класса
 public: // спецификатор доступа
 	void message() // функци€ (метод класса) вывод€ща€ сообщение на экран
 	{
-		cout << "website: cppstudio.com\ntheme: Classes and Objects in C + +\n";
+		cout << "3len";
+		cout << "Dima Kozlovsky";
 	}
 }; // конец объ€влени€ класса CppStudio
 
